@@ -1,12 +1,12 @@
+## Link to Open Source Badge Generator
+Click [here](https://hhelenxu.github.io/Open-Source-Badge-Generator/) for an open source badge generator linked to your github account!
+Credits to: TharVid
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hhelenxu/hhelenxu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## Link to Open Source Badge Generator
-Click [here](https://hhelenxu.github.io/Open-Source-Badge-Generator/) for an open source badge generator linked to your github account!
-Credits to: TharVid
 
 ### Markdown
 
