@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/hhelenxu/hhelenxu.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Link to Open Source Badge Generator
+Click [here] (https://hhelenxu.github.io/Open-Source-Badge-Generator/) for an open source badge generator linked to your github account!
+Credits to: TharVid
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
