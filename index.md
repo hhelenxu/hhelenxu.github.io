@@ -4,7 +4,7 @@ I am a freshman at Duke University interested in learning more about computer sc
 ## Open Source Projects
 ### Badge Generator
 Click [here](https://hhelenxu.github.io/Open-Source-Badge-Generator/) for an open source badge generator that generates a badge linked to your github account!
-Credits to: TharVid
+Credits to: TharVid, contributions by me.
 ### More Coming!
 
 ## Some Other Projects
