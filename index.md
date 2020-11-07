@@ -14,6 +14,8 @@ Implemented autocomplete algorithm: [Github repo](https://github.com/hhelenxu/Au
 Model that uses k-grams (strings of k-letters) to predict text: [Github repo](https://github.com/hhelenxu/MarkovModel)
 ### Linked DNA
 Efficient way to model DNA splicing via restriction enzymes and insertion: [Github repo](https://github.com/hhelenxu/LinkedDNA)
+### Percolation Model
+Estimate the value of the percolation threshold via Monte Carlo simulation: [Github repo](https://github.com/hhelenxu/Percolation)
 ### Sudoku Game
 Sudoku game player and solver: [Github repo](https://github.com/hhelenxu/Sudoku)
 ### Mancala Board Game
