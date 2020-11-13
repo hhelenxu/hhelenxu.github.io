@@ -8,6 +8,8 @@ Credits to: TharVid, contributions by me.
 ### More Coming!
 
 ## Some Other Projects
+### Huffman Coding
+Huffman coding algorithm to compress files: [Github repo](https://github.com/hhelenxu/HuffmanCoding)
 ### Autocomplete
 Implemented autocomplete algorithm: [Github repo](https://github.com/hhelenxu/Autocomplete)
 ### Markov Model
